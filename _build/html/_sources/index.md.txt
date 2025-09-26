@@ -21,7 +21,7 @@ documentation for details.
 
 [Heading 2 (md)](heading-2)
 
-[Custom CSS](https://docs.readthedocs.com/platform/stable/guides/adding-custom-css.html)
+[Custom CSS](https://docs.readthedocs.com/platform/stable/guides/adding-custom-css.html){target=_blank}
 
 [
 Paragraph marked text.

@@ -2,10 +2,12 @@
 
 span.mark {
   background-color: #d1dbe4;
+  /* background-color: #fff0bf; */
 }
 
 [data-theme="dark"] span.mark {
   background-color: #194a7a;
+  /* background-color: #ffd52e; */
 }
 
 ol.char > li {
