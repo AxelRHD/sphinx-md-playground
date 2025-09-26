@@ -1,0 +1,17 @@
+/* @import "theme.css"; */
+
+span.mark {
+  background-color: #d1dbe4;
+}
+
+[data-theme="dark"] span.mark {
+  background-color: #194a7a;
+}
+
+ol.char > li {
+  list-style: lower-alpha !important;
+}
+
+ol.roman > li {
+  list-style: upper-roman !important;
+}
